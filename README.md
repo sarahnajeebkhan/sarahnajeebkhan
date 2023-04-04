@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sarahnajeebkhan
-- 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning to extract useful data from datasets in order to assist in the growth of businesses
-- 💞️ I’m looking to collaborate on projects related to EDA using Python
+- 👀 I’m interested in Data Science, Artificial Intelligence and Machine Learning
+- 💞️ I’m looking to collaborate on projects related to AI in real-world
 - 📫 Email : sarahnajeebkhan@gmail.com
 
 <!---
