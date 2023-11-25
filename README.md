@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sarahnajeebkhan
-- 👀 I’m interested in Data Science, Artificial Intelligence and Machine Learning
-- 💞️ I’m looking to collaborate on projects related to AI in real-world
+- 👋 Hi, I’m @sarahnajeebkhan, a Computer Science and Engineering Graduate
+- 👀 Currently working as an AI Developer at a start-up in Bangalore, India
+- 💞️ I’m looking to collaborate on projects related to Machine Learning and Data Science
 - 📫 Email : sarahnajeebkhan@gmail.com
 
 <!---
