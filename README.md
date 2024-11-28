@@ -1,8 +1,11 @@
 👩‍💻 AI Developer | Data Scientist | Generative AI Enthusiast
+
 🌍 Exploring the frontiers of AI, Computer Vision, and NLP
+
 🚀 Building intelligent solutions for real-world problems.
 
-💼 Currently: AI Developer @ SignDesk (Leading chatbot projects and ML APIs in production)
+💼 Currently: AI Developer @ SignDesk
+
 🎯 Career goal: To innovate and grow in AI & Data Science on a global stage.
 
 🔬 Passionate about:
