@@ -1,4 +1,4 @@
-👩‍💻 AI Developer | Data Scientist | Generative AI Enthusiast
+👩‍💻 AI Developer | Data Scientist | Generative AI Engineer
 
 🌍 Exploring the frontiers of AI, Computer Vision, and NLP
 
