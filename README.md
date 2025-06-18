@@ -4,7 +4,7 @@
 
 🚀 Building intelligent solutions for real-world problems.
 
-💼 Currently: AI Developer @ SignDesk
+💼 Currently: AI Developer @ Lowe's Home Improvement
 
 🎯 Career goal: To innovate and grow in AI & Data Science on a global stage.
 
